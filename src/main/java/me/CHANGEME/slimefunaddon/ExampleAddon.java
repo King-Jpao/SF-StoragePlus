@@ -1,4 +1,4 @@
-package me.me.kingjpao.sfstorageplus;
+package me.kingjpao.sfstorageplus;
 
 import org.bukkit.Material;
 import org.bukkit.NamespacedKey;
